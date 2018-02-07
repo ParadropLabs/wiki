@@ -1,0 +1,9 @@
+command: app
+config:
+  web:
+    port: 8000
+description: wiki is a self-hosted well uh wiki engine or content management system
+name: wiki
+type: light
+use: go
+version: 1
