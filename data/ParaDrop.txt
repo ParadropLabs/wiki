@@ -1,0 +1,9 @@
+## ParaDrop
+
+ParaDrop is an open source edge computing platform developed by the WiNGS Lab
+at the University of Wisconsin-Madison. We built the ParaDrop platform
+especially for WiFi routers so that developers can *paradrop* services from the
+cloud to the extreme edge of the network, just one hop away from users' mobile
+devices, data sources, and actuators of IoT applications. The name ParaDrop
+comes from this ability to drop supplies and resources (services) into the far
+reaches of the network.

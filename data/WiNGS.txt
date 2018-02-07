@@ -1,0 +1,14 @@
+## WiNGS Lab
+
+The Wisconsin Wireless and NetworkinG Systems (WiNGS) Laboratory was
+established at UW-Madison in summer 2005. Research in the WiNGS lab is
+conducted in the areas of networking and distributed systems, with a primary
+focus on wireless and mobile networking. Research activities in the lab span a
+diverse set of activities, ranging from algorithmic design and analysis, and
+systems building through functional prototypes. Our projects get deployed in
+real and practical scenarios, sometimes in collaboration with partners who
+allow us to understand various real constraints, leading in turn to more
+refined solutions. The activities of this lab are generously supported at
+different times through funding from government agencies (such as the National
+Science Foundation) and industrial partners. Dr. Suman Banerjee leads
+the WiNGS Lab.

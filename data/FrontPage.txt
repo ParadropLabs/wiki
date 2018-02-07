@@ -1,14 +1,13 @@
-## This is the Front Page
+## Wiki
 
-* blah
-* blah
-* foo bar baz
+This wiki is an example of a service that can run on ParaDrop. It is installed
+like an application on a ParaDrop router and becomes available to users through
+the web browser. All of the content is stored locally and privately on the
+ParaDrop host device.
 
-Check out: https://github.com/prologic
+## Source Code
 
-Also check out TestPage
+The code for this wiki was originally written by James Mills and required
+no modification to run on ParaDrop—only the addition of a configuration file.
 
-* NewPage
-* SecondPage
-* ThirdPage
-* FourthPage
+For the original source code, please see: https://github.com/prologic/wiki
